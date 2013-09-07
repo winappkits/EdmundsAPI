@@ -1,8 +1,8 @@
-#APIMASH Edmunds Starter Kit for Windows Phone
+#Edmunds Starter Kit for Windows Phone
 ##Date: 6.10.2013
 ##Version: v1.0.0
 ##Author(s): Bob Familiar
-##URL: http://github.com/apimash/starterkits
+
 
 ----------
 ##Description
@@ -29,7 +29,7 @@ Blog: [APIMASH Edmunds Starter Kit for Windows Phone][1]
 
  - [Register at Mashery.com][8]
  - [Request a Developer Key at Edmunds][9]
- - [Download the Starter Kit Zip Portfolio][10] 
+ - Download the Starter Kit
  - Open the Solution in Visual Studio
  - Add your Developer Key in the *Globals.cs* file
  - Update the reference to the *Newtonsoft JSON.NET Library* in the *APIMASHLib* project
@@ -100,7 +100,7 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
 
 
   [1]: http://theundocumentedapi.com/index.php/apimash-edmunds-starter-kit-for-windows-phone-8/
-  [2]: https://raw.github.com/apimash/StarterKits/master/Windows%20Phone%20Starter%20Kits/APIMASH_Edmunds_StarterKit_Phone/APIMASH_Edmunds_StarterKit_Screen3.png "Edmunds Starter Kit"
+  [2]: https://raw.github.com/winappkits/EdmundsAPI/master/WindowsPhone8/APIMASH_Edmunds_StarterKit_Screen3.png "Edmunds Starter Kit"
   [3]: http://developer.edmunds.com "Edmunds"
   [4]: http://www.microsoft.com/visualstudio/eng/products/visual-studio-express-for-windows-phone
   [5]: https://json.codeplex.com/ "JSON.NET"
@@ -108,7 +108,6 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
   [7]: http://developer.edmunds.com "Edmunds Developer Key"
   [8]: http://developer.mashery.com/ "Register at Mashery.com"
   [9]: http://developer.edmunds.com "Edmunds Developer Key"
-  [10]: http://apimash.github.io/StarterKits "APIMASH Starter Kits"
   [11]: http://developer.edmunds.com/docs/read/the_editorial_api "Editorial API"
   [12]: http://developer.edmunds.com/docs/read/The_Vehicle_API "Vehicle API"
   [13]: http://developer.edmunds.com/docs/read/the_inventory_api "Inventory API"

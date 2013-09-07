@@ -1,8 +1,8 @@
-#APIMASH Edmunds Starter Kit
+#Edmunds Starter Kit
 ##Date: 5.10.2013
 ##Version: v1.0.0
 ##Author(s): Bob Familiar
-##URL: http://github.com/apimash/starterkits
+
 
 ----------
 ##Description
@@ -29,7 +29,7 @@ Blog: [APIMASH Edmunds Starter Kit][1]
 
  - [Register at Mashery.com][7]
  - [Request a Developer Key at Edmunds][8]
- - [Download the Starter Kit Zip Portfolio][9] 
+ - Download the Starter Kit Zip
  - Open the Solution in Visual Studio
  - Add your Developer Key in the *Globals.cs* file
  - Update the reference to the *Newtonsoft JSON.NET Library* in the *APIMASHLib* project
@@ -102,14 +102,13 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
 
 
   [1]: http://theundocumentedapi.com/index.php/apimash-the-edmunds-starter-kit/
-  [2]: https://raw.github.com/apimash/StarterKits/master/Windows%20Starter%20Kits/APIMASH_Edmunds_StarterKit/EdmundsScreenshot.png "Edmunds Starter Kit"
+  [2]: https://raw.github.com/winappkits/EdmundsAPI/master/Windows8/EdmundsScreenshot.png "Edmunds Starter Kit"
   [3]: http://developer.edmunds.com "Edmunds"
   [4]: https://json.codeplex.com/ "JSON.NET"
   [5]: http://developer.mashery.com/ "Mashery.com"
   [6]: http://developer.edmunds.com "Edmunds Developer Key"
   [7]: http://developer.mashery.com/ "Register at Mashery.com"
   [8]: http://developer.edmunds.com "Edmunds Developer Key"
-  [9]: http://apimash.github.io/StarterKits "APIMASH Starter Kits"
   [10]: http://developer.edmunds.com/docs/read/the_editorial_api "Editorial API"
   [11]: http://developer.edmunds.com/docs/read/The_Vehicle_API "Vehicle API"
   [12]: http://developer.edmunds.com/docs/read/the_inventory_api "Inventory API"
