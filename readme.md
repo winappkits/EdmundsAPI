@@ -1,0 +1,33 @@
+#Edmunds API
+##Windows App Starter Kit
+###Date: 9/7/2013
+###Version: v1.0.0
+###Authors: Bob Familiar
+
+----------
+##Description
+Windows 8 and Windows Phone 8 App Starter Kits that leverage the [Edmunds API][1].
+
+##Projects
+
+ 1. [Windows 8 XAML/C#][2]
+ 2. [Windows Phone 8 XAML/C#][3]
+
+
+##Related Blog Posts
+
+ - [The Edmunds API Starter Kit for Windows][6]
+ - [The Edmunds API Starter Kit for Windows Phone][7]
+ - [Creating Compelling Windows 8 Apps using API's][8]
+ - [JSON Deserialization for C# Developers][9]
+ - [APIMASH on Channel 9][10]
+
+
+  [1]: http://developer.edmunds.com/
+  [2]: https://github.com/winappkits/EdmundsAPI/tree/master/Windows8
+  [3]: https://github.com/winappkits/EdmundsAPI/tree/master/WindowsPhone8
+  [6]: http://theundocumentedapi.com/2013/05/30/apimash-the-edmunds-starter-kit/
+  [7]: http://theundocumentedapi.com/2013/06/10/apimash-edmunds-starter-kit-for-windows-phone-8/
+  [8]: http://theundocumentedapi.com/2013/05/28/apimash-using-apis-to-create-compelling-windows-apps/
+  [9]: http://theundocumentedapi.com/2013/05/31/apimash-json-deserialization-for-c-developers/
+  [10]: http://channel9.msdn.com/Niners/apimash
