@@ -5,8 +5,8 @@
 
 
 ----------
-###Description
-The Edmunds Starter Kit is a XAML/C# Windows 8 app based on the Blank Template that demonstrates calling the Edmunds REST API's. The JSON payload for Makes, Models, Model Specs and Pictures is deserialized into a set of C# classes that define the Data Model. That data then is selectively copied into the View Model for binding to WinRT XAML controls. You can use the breadth and detail of the automotive information available through the Edmunds API to create mashups, visualizations and other applications that will provide an added dimension of user experience for the automotive consumer.
+##Description
+The Edmunds Starter Kit is a XAML/C# Windows 8.1 app based on the Blank Template that demonstrates calling the Edmunds REST API's. The JSON payload for Makes, Models, Model Specs and Pictures is deserialized into a set of C# classes that define the Data Model. That data then is selectively copied into the View Model for binding to WinRT XAML controls. You can use the breadth and detail of the automotive information available through the Edmunds API to create mashups, visualizations and other applications that will provide an added dimension of user experience for the automotive consumer.
 
 Blog: [APIMASH Edmunds Starter Kit][1]
 
