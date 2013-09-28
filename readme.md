@@ -1,5 +1,4 @@
-#Edmunds API
-##Windows App Starter Kit
+##Edmunds API Windows App Starter Kit
 ###Date: 9/7/2013
 ###Version: v1.0.0
 ###Authors: Bob Familiar
@@ -11,9 +10,10 @@ Windows 8 and Windows Phone 8 App Starter Kits that leverage the [Edmunds API][1
 ##Projects
 
  1. [Windows 8 XAML/C#][2]
- 2. [Windows Phone 8 XAML/C#][3]
-
-
+ 2. Windows 8.1 XAML/C#
+ 3. [Windows Phone 8 XAML/C#][3]
+    
+    
 ##Related Blog Posts
 
  - [The Edmunds API Starter Kit for Windows][6]
